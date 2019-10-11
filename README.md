@@ -187,8 +187,8 @@ Now this is where the fun begins as you start thinking about your offering strat
 
 ## Don't waste time writing referral logic that's not core to your business
 
-We did that when we were building other thing and it took us a lot of time out of what mattered.
+We did that when we were building other thing and it took us a lot of time away from what was more important.
 
-Now we can take care of that so you won't repeat that mistake and just focus on the what's important--getting users and validating ideas.
+Now we can take care of that so you won't repeat that mistake and just focus on the priority--getting early adopters and validating your product.
 
 ## [Sign up](https://alphaseek.typeform.com/to/kBUVWb) or [contact us](+13476092126) to set up.
